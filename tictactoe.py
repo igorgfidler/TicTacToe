@@ -1,5 +1,5 @@
 import os
-from MinMax import MinMax
+from minmax import MinMax
 
 class TicTacToe(object):
 
